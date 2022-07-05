@@ -1,9 +1,11 @@
 
-.section1{
-    margin: 3%;
-    position: relative;
+/* section1 */
 
+
+.img-section1{
+    width: 100%;
 }
+
 .textAndButton{
     position: absolute;
     bottom: 200px;
@@ -21,4 +23,135 @@
     color: white;
     border:none;
     padding:5px;
+}
+
+
+
+/* section2 */
+.moneytitle-description{
+    text-align: center;
+}
+
+.money-section{
+    display:flex;
+    color:rgba(112, 112, 112, 1);
+    width: 100%;
+  
+
+}
+
+.section2{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+}
+
+
+.money{
+    background-color:rgba(250, 250, 250, 1);
+    width:105px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+    width: 100%;
+    padding-bottom: 10px;
+   
+
+}
+
+.money-selected{
+    background-color:rgba(255, 238, 238, 1);
+    width:105px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+    width: 100%;
+    padding-bottom: 10px;
+    color:rgba(255, 89, 89, 1);
+}
+
+.Text-taka{
+    border-bottom: 2px solid rgb(200, 193, 193);
+    padding-bottom: 5px;
+}
+
+/* section3 */
+.section3{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+}
+
+.donationPlan-titletext{
+    text-align: center;
+}
+
+.donate-plan{
+    display: flex;
+    
+}
+
+.foodimage-icon img{
+    height: 35px;
+}
+
+.foodfor-family{
+    background-color:  rgba(79, 157, 166, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.shelterfor-family{
+    background-color:rgba(255, 89, 89, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+.educationfor-child{
+    background-color: #FFF4D6;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+
+/* section4 */
+.section4{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+}
+.emergeny-flood{
+    display: flex;
+}
+.emergencyflood-text{
+    width: 50%;
+  
+}
+
+.img-assunahfoundation{
+    width: 50%;
+    margin-left: 10px;
+}
+.img-assunahfoundation img{
+    height: 200px;
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 5px;
+    
+}
+
+
+
+
+/* footer */
+
+.footer{
+    background-color:black;
+    color:white;
+    text-align: center;
+    font-style: italic;
+    width:100%;
 }
