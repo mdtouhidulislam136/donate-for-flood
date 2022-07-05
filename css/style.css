@@ -143,9 +143,36 @@
     
 }
 
+/* section5 */
+.section5{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+}
 
+.update{
+    text-align: center;
+}
 
+.input-box{
+    background-color: #d9d9d9;
+    border: none;
+}
 
+.email-box{
+    background-color: #FFF4D6;
+    height: 50px;
+    padding-top: 30px;
+   
+  
+}
+
+.subscription-button{
+    color:white;
+    background-color:#FF5959;
+    border: none;
+
+}
 /* footer */
 
 .footer{
